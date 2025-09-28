@@ -57,7 +57,12 @@ a {
 
 </style>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=3oJnpU6dzO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315"
+    src="https://www.youtube.com/embed/3oJnpU6dzO4?si=bEhax4o-06yTcjZ6"
+    frameborder="0"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+</iframe>
 
 
 
@@ -198,6 +203,7 @@ Untitled Graphic Score - Drawn by Timothy Masso
 ### On A Clear Day - Composed by Burton Lane - Arranged by Timothy Masso
 
 <iframe src="{{ site.url }}/assets/onacleardaylead.pdf" width="100%" height="600px"></iframe>
+
 
 
 
