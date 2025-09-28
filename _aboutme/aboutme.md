@@ -1,0 +1,126 @@
+---
+layout: page
+title: About Me
+permalink: /_aboutme/aboutme/
+---
+
+<link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/assets/favicon.ico" type="image/x-icon">
+
+## Early Years 
+I grew up in Cleveland surrounded by music. My father plays guitar and is a sound engineer, so every car ride was filled with tunes that sparked my love for sound from an early age. I began on clarinet in fifth grade, then moved to alto saxophone, but after a summer camp where I played baritone for the first time, I fell in love with the horn and its sound. I knew I wanted to dedicate myself to jazz music. 
+
+## High School (2016–2020)  
+High school was a wonderful time full of music and growth. I played in concert bands, jazz ensembles, show choir, pit orchestras, Cleveland Youth Wind Symphony and attended the TRI-C Jazz Fest Academy. One of the most exciting moments was when my director saw potential in me and invited me to join an adult community band while I was a sophomore. I was so lucky to have mentors like:  
+- Bill Hughes  
+- Dan Crain  
+- Mario Clopton-Zymler  
+- Ken LeeGrand 
+- Bobby Sanabria 
+
+who all guided me, teaching leadership, improvisation, and collaboration. During summers, I attended jazz and Afro-Cuban jazz camps, taught at band camps, and worked in the schools band office organizing scores, cleaning instruments and getting ready for the coming school year. Music was a year round passion.
+
+## College Years (2020–2024)  
+I studied jazz and contemporary music at The New School’s College of Performing Arts in New York City. I had the privilege of performing in ensembles led by:  
+- Bobby Sanabria  
+- Brandee Younger  
+- Rez Abbasi  
+- Marty Ehrlich  
+- Andrew Cyrille  
+- Nir Felder  
+- Allison Miller 
+and many more  
+
+I took my private lessons with David Schnitter. Darius Jones and Marty Ehrlich. Each helped shape my improvisation, composition, and sound exploration.
+
+## Live Sound
+While going to college, I put my other passion for live sound and music production to work. As my father is a sound engineer I had picked up a few things while shadowing him to his gigs. While in NYC, I joined the student lead, tiny desk inspired Sunday Sessions as a backline assistant and assistant live sound engineer. I also mixed performances for artists and students, set up gear for concerts, and ran PA systems outside the school. One of the funniest things that happened was one day after Bobby Sanabria was done rehearsing his ensemble at school he turns to me and asks me what I was doing after. As it was 9:30pm at that point, I was just going to head home. He told me to come with him to his radio gig that night. When we go there it turned out they didn't have a mic stand, Bobby turns to me and goes "you do sound right?" and I nod my head. He then goes "hold the damn mic, you know where to hold it, so everyone can hear me". So for the next hour I stand next to him playing his drums holding the mic as he talks. It was a live radio night at the museum of math in NYC. If I'm not mistaken it's this event, but the time was changed: [MoMath Event: Bobby Sanabria Live Taping](https://momath.org/civicrm/event/info/?id=7222&reset=1)
+
+
+## Current Goals (2024-) 
+Since graduating from The New School in 2024, I found a new passion in data analysis and math. To start my new exploration to get a good feel for real world application of what i wanted to do, I earned microcredentials in Excel, Minitab, Power BI, and general data analytics. I liked doing all of that so much that I'm Currently pursuing the Post-Degree Professional Certificate in Data Analytics at Cuyahoga Community College (TRI-C), with a goal of beginning a Master’s degree in Applied Mathematics and Statistics at Bowling Green State University in Fall 2026. As of sept 2025 I'm still getting everything ready for my application.
+
+
+
+
+
+<style>
+body {
+  color: white;
+  font-family: monospace;
+  font-size: 16px;
+  line-height: 1.6;
+  margin: 0;
+  min-height: 100vh;
+  background-image: url('/assets/kidme.webp');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  position: relative;
+  text-shadow: 
+  0 0 0 black,
+  1px 0 0 black,
+  -1px 0 0 black,
+  0 1px 0 black,
+  0 -1px 0 black,
+  1px 1px 0 black,
+  -1px -1px 0 black,
+  1px -1px 0 black,
+  -1px 1px 0 black,
+  2px 0 0 black,
+  -2px 0 0 black,
+  0 2px 0 black,
+  0 -2px 0 black;
+}
+
+
+a {
+  color: #5bff32;
+  text-decoration: underline;
+}
+
+</style>
+
+
+<div id="scrollTrack">
+  <div id="verticalScrollProgress"></div>
+</div>
+
+<style>
+#scrollTrack {
+  position: fixed;
+  top: 25%;
+  left: 50%;
+  transform: translateX(-700px);
+  width: 5px;
+  height: 50%;
+  background-color: rgba(255, 255, 255, 0.1);
+  z-index: 9998;
+}
+
+#verticalScrollProgress {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 0%;
+  background-color: #5bff32;
+  z-index: 9999;
+}
+
+</style>
+
+<script>
+window.onscroll = function() {
+  const track = document.getElementById("scrollTrack");
+  const bar = document.getElementById("verticalScrollProgress");
+  
+  const scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
+  const scrollHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+  const scrollPercent = (scrollTop / scrollHeight) * 100;
+  
+  // Keep the green bar inside the track
+  bar.style.height = scrollPercent + "%";
+};
+</script>
+
