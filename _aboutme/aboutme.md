@@ -8,33 +8,37 @@ permalink: /_aboutme/aboutme/
 <link rel="icon" href="/assets/favicon.ico" type="image/x-icon">
 
 ## Early Years 
-I grew up in Cleveland surrounded by music. My father plays guitar and is a sound engineer, so every car ride was filled with tunes that sparked my love for sound from an early age. I began on clarinet in fifth grade, then moved to alto saxophone, but after a summer camp where I played baritone for the first time, I fell in love with the horn and its sound. I knew I wanted to dedicate myself to jazz music. 
+I grew up in Cleveland surrounded by music. My father plays guitar and is a sound engineer, so every car ride was filled with tunes that sparked my love for music from an early age. I began on clarinet in fifth grade, then moved to alto saxophone, but after a summer camp where I played baritone for the first time, I fell in love with the horn and its sound. I knew I wanted to dedicate myself to jazz music. 
 
 ## High School (2016–2020)  
-High school was a wonderful time full of music and growth. I played in concert bands, jazz ensembles, show choir, pit orchestras, Cleveland Youth Wind Symphony and attended the TRI-C Jazz Fest Academy. One of the most exciting moments was when my director saw potential in me and invited me to join an adult community band while I was a sophomore. I was so lucky to have mentors like:  
-- Bill Hughes  
+High school was a wonderful time full of music and growth. I played in concert bands such as the Cleveland Youth Wind Symphony and The Shaker Heights Wind Ensemble. In jazz ensemble programs like Jazz at The Music Settlement (J@MS) and the Tri-C JazzFest Academy. In Show Choir bands for the school competing at Show Choir invitationals. In pit orchestras for musicals performed at the school. And in summer camps where I taught and played.  
+- Bill Hughes 
 - Dan Crain  
 - Mario Clopton-Zymler  
 - Ken LeeGrand 
 - Bobby Sanabria 
 
-who all guided me, teaching leadership, improvisation, and collaboration. During summers, I attended jazz and Afro-Cuban jazz camps, taught at band camps, and worked in the schools band office organizing scores, cleaning instruments and getting ready for the coming school year. Music was a year round passion.
+who all guided me, teaching leadership, improvisation, and collaboration. During summers, I attended jazz and Afro-Cuban jazz camps, taught at band camps, and worked in the schools band office organizing scores, cleaning instruments and getting ready for the coming school year. Music was a year round passion. Mario wouldn't even ask me to play for two years in a row at the beginning of the year while I was in another class he would knock on the door as the other teacher if he could talk to me and say here's the music for this year and place a packet on my desk. Which was a packet of the Show Choir music and the first musical they were having for the year. I didn't even have a chance to say no. 
 
 ## College Years (2020–2024)  
 I studied jazz and contemporary music at The New School’s College of Performing Arts in New York City. I had the privilege of performing in ensembles led by:  
-- Bobby Sanabria  
-- Brandee Younger  
+- Bobby Sanabria    
 - Rez Abbasi  
 - Marty Ehrlich  
 - Andrew Cyrille  
 - Nir Felder  
-- Allison Miller 
+- Allison Miller
+- Jim Snidero 
+- Andy McKee
+- Ahmed Abdullah
 and many more  
 
-I took my private lessons with David Schnitter. Darius Jones and Marty Ehrlich. Each helped shape my improvisation, composition, and sound exploration.
+I took my private lessons with David Schnitter, Darius Jones and Marty Ehrlich. Each helped shape my improvisation, composition, and sound exploration.
 
 ## Live Sound
-While going to college, I put my other passion for live sound and music production to work. As my father is a sound engineer I had picked up a few things while shadowing him to his gigs. While in NYC, I joined the student lead, tiny desk inspired Sunday Sessions as a backline assistant and assistant live sound engineer. I also mixed performances for artists and students, set up gear for concerts, and ran PA systems outside the school. One of the funniest things that happened was one day after Bobby Sanabria was done rehearsing his ensemble at school he turns to me and asks me what I was doing after. As it was 9:30pm at that point, I was just going to head home. He told me to come with him to his radio gig that night. When we go there it turned out they didn't have a mic stand, Bobby turns to me and goes "you do sound right?" and I nod my head. He then goes "hold the damn mic, you know where to hold it, so everyone can hear me". So for the next hour I stand next to him playing his drums holding the mic as he talks. It was a live radio night at the museum of math in NYC. If I'm not mistaken it's this event, but the time was changed: [MoMath Event: Bobby Sanabria Live Taping](https://momath.org/civicrm/event/info/?id=7222&reset=1)
+While going to college, I put my other passion for live sound and music production to work. As my father is a sound engineer I had picked up a few things while shadowing him to his gigs. While in NYC, I joined the student lead, tiny desk inspired Sunday Sessions as a backline assistant and assistant live sound engineer. I also mixed performances for artists and students, set up gear for concerts, and ran PA systems outside the school. 
+
+One of the funniest things that happened was, one day after Bobby Sanabria was done rehearsing his ensemble at school he turns to me and asks me what I was doing after. As it was 9:30pm at that point, I was just going to head home. He told me to come with him to his radio gig that night. When we go there it turned out they didn't have a mic stand, Bobby turns to me and goes "you do sound right?" and I nod my head. He then goes "hold the damn mic, you know where to hold it, so everyone can hear me". So for the next hour I stand next to him playing his drums holding the mic as he talks. It was a live radio night at the museum of math in NYC. If I'm not mistaken it's this event, but the time was changed: [MoMath Event: Bobby Sanabria Live Taping](https://momath.org/civicrm/event/info/?id=7222&reset=1)
 
 
 ## Current Goals (2024-) 
