@@ -67,7 +67,7 @@ layout: home
 {% endfor %}
 </ul>
 
-<h2>Typewriter Projects</h2>
+<!-- <h2>Typewriter Projects</h2>
 <ul>
   {% assign grouped_types = site.typewriters | group_by: "type" %}
   {% for type in grouped_types %}
@@ -90,6 +90,7 @@ layout: home
   </li>
   {% endfor %}
 </ul>
+-->
 
 <div id="scrollTrack">
   <div id="verticalScrollProgress"></div>
