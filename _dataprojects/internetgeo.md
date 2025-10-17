@@ -216,7 +216,7 @@ From 1982 through 2025, the dataset contains **2,529 incidents** involving U.S. 
 Still, the general trend is clear: **commercial air travel is remarkably safe**.
 
 ## Closing Thoughts
-This project started from curiosity about whether the recent aviation headlines pointed to a larger issue. Based on the data, the answer appears to be no serious incidents are uncommon and have not become more frequent.  
+This project started from curiosity about whether the recent aviation headlines pointed to a larger issue. Based on the data, the answer appears to be no. serious incidents are uncommon and have not become more frequent.  
 However, there is growing public attention on manufacturing and maintenance practices, which is a good thing. Greater transparency leads to better safety.  
 Now that the base dataset and visualization system are complete, future work could include adding international data or creating a **time-lapse view** of incident trends over the decades.
 
