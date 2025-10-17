@@ -163,7 +163,7 @@ Example GeoJSON entry (trimmed):
 ## Linking Airport Coordinates
 Once the crash sites were plotted, I wanted to add the coordinates of the **origin airports**.  
 To do that, I used a separate CSV of U.S. airport codes that included latitude and longitude. I matched each incident’s airport ID or name to the airport data and added the coordinates.  
-Some airport fields were missing or formatted differently, so I added fallback logic — if no airport match was found, the program used the accident coordinates instead.
+Some airport fields were missing or formatted differently, so I added fallback logic, if no airport match was found, the program used the accident coordinates instead.
 
 
 ## Visualizing with Leaflet
@@ -201,7 +201,7 @@ The layout is simple, but it conveys the information clearly.
 
 ## Kepler Experiments
 I also imported the dataset into **Kepler.gl**, a browser-based visualization tool. It allowed me to connect accident sites and airports with arcs and overlay heat grids showing where serious incidents occurred most frequently.  
-These visualizations made it easy to see patterns — most events happen near airports or along high-traffic routes.
+These visualizations made it easy to see patterns, most events happen near airports or along high-traffic routes.
 
 
 ## What the Data Shows
@@ -216,7 +216,7 @@ From 1982 through 2025, the dataset contains **2,529 incidents** involving U.S. 
 Still, the general trend is clear: **commercial air travel is remarkably safe**.
 
 ## Closing Thoughts
-This project started from curiosity about whether the recent aviation headlines pointed to a larger issue. Based on the data, the answer appears to be no — serious incidents are uncommon and have not become more frequent.  
+This project started from curiosity about whether the recent aviation headlines pointed to a larger issue. Based on the data, the answer appears to be no serious incidents are uncommon and have not become more frequent.  
 However, there is growing public attention on manufacturing and maintenance practices, which is a good thing. Greater transparency leads to better safety.  
 Now that the base dataset and visualization system are complete, future work could include adding international data or creating a **time-lapse view** of incident trends over the decades.
 
