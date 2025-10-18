@@ -51,9 +51,9 @@ a {
 
 # New School Radiohead Ensemble
 
-*Date* Feb 15 2024, 8pm
+*Date*: Feb 15 2024, 8pm
 
-*Location* College of Performing Arts at The New School, 5th floor Performance Space 55 W 13th St, New York, NY 10011
+*Location*: College of Performing Arts at The New School, 5th floor Performance Space 55 W 13th St, New York, NY 10011
 
 # *Personnel*
 
