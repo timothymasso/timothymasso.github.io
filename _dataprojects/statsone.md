@@ -7,8 +7,6 @@ date: 2025-08-10
 permalink: /_dataprojects/statsone/
 ---
 
-<link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon">
-<link rel="icon" href="/assets/favicon.ico" type="image/x-icon">
 
 <style>
 body {

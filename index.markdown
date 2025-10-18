@@ -1,8 +1,6 @@
 ---
 layout: home
 ---
-<link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon">
-<link rel="icon" href="/assets/favicon.ico" type="image/x-icon">
 
 <h2>Performances</h2>
 <ul>

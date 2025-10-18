@@ -6,8 +6,6 @@ year: 2024
 date: 2024-04-20
 permalink: /_dataprojects/internetgeo/
 ---
-<link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon">
-<link rel="icon" href="/assets/favicon.ico" type="image/x-icon">
 
 [comment]: link to github repo of the project
 

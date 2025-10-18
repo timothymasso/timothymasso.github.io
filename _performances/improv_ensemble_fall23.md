@@ -7,9 +7,6 @@ date: 2023-11-08
 permalink: /_performances/improv_ensemble_fall23/
 ---
 
-<link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon">
-<link rel="icon" href="/assets/favicon.ico" type="image/x-icon">
-
 <style>
 body {
   color: white;

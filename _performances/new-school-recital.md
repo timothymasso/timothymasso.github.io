@@ -7,8 +7,6 @@ date: 2024-04-19
 permalink: /_performances/new-school-recital/
 ---
 
-<link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon">
-<link rel="icon" href="/assets/favicon.ico" type="image/x-icon">
 
 <style>
 body {
