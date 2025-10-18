@@ -55,7 +55,7 @@ collections:
     permalink: /_typewriters/:path/
 
 
-favicon: ".//assets/favicon.png"
+favicon: "./assets/favicon.png"
 
 include:
   - assets
