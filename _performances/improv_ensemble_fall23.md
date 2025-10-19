@@ -98,11 +98,23 @@ Live Showcase Recording
 
 # New Shool Improv Ensemble
 
-*Date* Nov 11 2023, 1pm
+*Date* 
 
-*Location* College of Performing Arts at The New School, 5th floor Performance Space 55 W 13th St, New York, NY 10011
+Nov 8 2023, 1pm
+
+*Location*: 
+
+5th floor Performance Space
+
+College of Performing Arts at The New School, 
+
+55 W 13th St, 
+
+New York, NY 10011
 
 # *Personnel*
+
+Andrew Cryrille - Director
 
 Timothy Masso (me) - Alto Saxophone 
 

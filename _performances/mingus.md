@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Julius Hemphil Ensemble
+title: Charles Mingus Ensemble (under construction)
 category: "New School"
 year: 2022
 date: 2022-12-06
-permalink: /_performances/juliushemphil/
+permalink: /_performances/mingus/
 ---
 
 <style>
@@ -46,12 +46,12 @@ a {
 
 </style>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bG930zKvAbk?si=jdQHFNKK7pei1SsC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MhJe7zcYz50?si=J4tgcA0HxtmkWQEZ&amp;start=391" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 *Date*: 
 
-Dec 6 2022, 8pm
+Dec 12 2022, 8pm
 
 *Location*: 
 
@@ -65,22 +65,25 @@ New York, NY 10011
 
 # *Repertoire*
 
+Peggy's Blue Skylight - Charles Mingus
+
+Moanin' - Charles Mingus
+
+
+
 # *Personnel*
 
-Marty Ehrlich – Director
+Andy McKee – Director, Upright Bass
 
-Timothy Masso (me) – Alto Saxophone
+Timothy Masso (me) – Alto Saxophone, Baritone Saxophone
 
-Ben Har-gaash – Upright Bass
+Aaron Mead - Tenor Saxophone
 
-Ao Zhang – Drums
+Gal Hecht – Piano  
 
-Hans Young-Binter – Piano  
+Reid Devereaux - Guitar
 
-Noah Franche-Nolan - Piano
+Samuel Clayton - Guitar
 
-Zhihuiying Guo - Percussion
+Jackson Trout - Drums
 
-Ayin Villagra - Piano 
-
-Lingyuan Yang - Guitar 

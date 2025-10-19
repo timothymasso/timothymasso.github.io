@@ -66,9 +66,19 @@ a {
 
 # My BFA senior recital
 
-*Date*: April 19th 2024, 6pm
+*Date*: 
 
-*Location*: College of Performing Arts at The New School, 5th floor Performance Space 55 W 13th St, New York, NY 10011
+April 19th 2024, 6pm
+
+*Location*: 
+
+5th floor Performance Space
+
+College of Performing Arts at The New School, 
+
+55 W 13th St, 
+
+New York, NY 10011
 
 # *Poster, Program and Stage Plot*
 

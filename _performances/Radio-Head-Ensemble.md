@@ -51,11 +51,23 @@ a {
 
 # New School Radiohead Ensemble
 
-*Date*: Feb 15 2024, 8pm
+*Date*: 
 
-*Location*: College of Performing Arts at The New School, 5th floor Performance Space 55 W 13th St, New York, NY 10011
+Feb 15 2024, 8pm
+
+*Location*: 
+
+5th floor Performance Space
+
+College of Performing Arts at The New School, 
+
+55 W 13th St, 
+
+New York, NY 10011
 
 # *Personnel*
+
+Timothy Masso (me) - Baritone Saxophone
 
 Wayne Jones - Director, Keyboards
 
@@ -75,9 +87,7 @@ Michael Golub - Trumpet
 
 Aviv Blum  - Alto Saxophone
 
-Haig Boulgourjian - Trombone
-
-Timothy Masso (me) - Baritone Saxophone 
+Haig Boulgourjian - Trombone 
 
 Celine Kang - Guitar 
 
