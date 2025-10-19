@@ -96,7 +96,7 @@ window.onscroll = function() {
 
 # *Date*: 
 
-Nov 03 2021, 6pm
+Nov 03 2021, 7:30pm
 
 # *Location*: 
 
@@ -108,6 +108,76 @@ The New School University Center,
 
 New York, NY 10003
 
+# *Program:*
+
+"The Kennedy Dream in Eight Movements" composed and arranged by Oliver Nelson
+
+"Stolen Moments" by Oliver Nelson
+
+"Down by the Riverside" Arranged by Oliver Nelson
+
 # *Personnel*
 
-Timothy Masso (me) - Baritone Saxophone
+VIOLIN 1 VIOLIN 2 VIOLA CELLO DOUBLE BASS
+
+Nian Men - Violin 1
+
+Rafailia Kapsokavadi - Violin 2
+
+Yuxuan Jin - Viola
+
+Candice Cheng - Cello
+
+Jasper Grisby - Double Bass
+
+Yixuan Lai - Violin 1
+
+Po Yao Fang - Violin 2
+
+Neil Chopra - Viola
+
+Graham Lampe - Double Bass
+
+Elias Ludlam - Flute, Piccilo
+
+Timothy Masso (me) - Alto Saxophone 1
+
+Matthew Maroon - Oboe, CorA 
+
+James D'Ambrogia - Alto Saxophone 2
+
+Jiyoung Yoon - Flute, Piccilo, Alto Flute  
+
+Carla Fortmann - Clarinet, Bass Clarinet 
+
+Mary Cowden - Alto Saxophone, Tenor Saxophone 
+
+Xinjie Wang - Bassoon
+
+Kalia Ferretti - Trumpet 1
+
+Zed Millette - Trumpet 2
+
+Thaddnes Palmer - Trumpet 3
+
+Ilhan Saferali - Trumpet 4
+
+Joseph Borgia - Horn 1
+
+Theo Benett - Trombone 1
+
+Holden Reese - Trombone 2
+
+Haig Boulgourjian - Trombone 3
+
+Jin Tang - Tuba
+
+Michael DeMarco - Drum Set
+
+Evan Eskenzai - Drum Set
+
+Trevor Jennings - Vibraphone
+
+Milo Harper - Harp
+
+Blanca Saxel - Piano

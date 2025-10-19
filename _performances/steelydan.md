@@ -131,8 +131,6 @@ Biti Strauchn - Director
 
 Timothy Masso (me) – Baritone Saxophone
 
-palmm646@newschool.edu,
-
 Joelle Bensaid - Vocals
 
 Clara Diaz - Vocals
