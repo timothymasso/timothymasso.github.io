@@ -96,13 +96,11 @@ Live Showcase Recording
 *Studio Recordings at the bottom*
 
 
-# New Shool Improv Ensemble
-
-*Date* 
+# *Date* 
 
 Nov 8 2023, 1pm
 
-*Location*: 
+# *Location*: 
 
 5th floor Performance Space
 

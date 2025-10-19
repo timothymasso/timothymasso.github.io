@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Radiohead Ensemble 
+title: "New School Studio Orchestra: The Kennedy Dream"
 category: "New School"
-year: 2024
-date: 2024-02-15
-permalink: /_performances/Radio-Head-Ensemble/
+year: 2021
+date: 2021-11-03
+permalink: /_performances/kdream/
 ---
 
 <style>
@@ -91,50 +91,23 @@ window.onscroll = function() {
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XmKAJfuxxoA?si=sDaQC8z-oVw8534K&amp;start=421" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P-zi1HWQoAs?si=ivU5-Jgn7i2qzAWH&amp;start=14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-# New School Radiohead Ensemble
 
 # *Date*: 
 
-Feb 15 2024, 8pm
+Nov 03 2021, 6pm
 
 # *Location*: 
 
-5th floor Performance Space
+Tishman Auditruum
 
-College of Performing Arts at The New School, 
+The New School University Center, 
 
-55 W 13th St, 
+63 5th Ave, 
 
-New York, NY 10011
+New York, NY 10003
 
 # *Personnel*
 
 Timothy Masso (me) - Baritone Saxophone
-
-Wayne Jones - Director, Keyboards
-
-Sofia Garcia - Vocals 
-
-Wanyana Ruth - Vocals 
-
-Clara Diaz - Vocals 
-
-Anna Hay - Vocals 
-
-Lauren Mian - Vocals 
-
-Maeve Palma - Vocals 
-
-Michael Golub - Trumpet
-
-Aviv Blum  - Alto Saxophone
-
-Haig Boulgourjian - Trombone 
-
-Celine Kang - Guitar 
-
-Max Pannella - Bass
-
-Dhruv Jain - Drums 

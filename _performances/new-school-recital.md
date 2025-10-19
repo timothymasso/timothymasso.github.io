@@ -66,11 +66,11 @@ a {
 
 # My BFA senior recital
 
-*Date*: 
+# *Date*: 
 
 April 19th 2024, 6pm
 
-*Location*: 
+# *Location*: 
 
 5th floor Performance Space
 
