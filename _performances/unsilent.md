@@ -155,7 +155,7 @@ Andrei Romanov - Piano
 
 Adam John Sherkin - Piano 
  
-# * Other Personnel* 
+# *Other Personnel* 
 
 Faculty - Alexis Cuadrado
 
