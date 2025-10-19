@@ -93,7 +93,7 @@ Live Showcase Recording
 *Studio Recordings at the bottom*
 
 
-# *Date* 
+# *Date*:
 
 Nov 8 2023, 1pm
 
@@ -107,7 +107,7 @@ College of Performing Arts at The New School,
 
 New York, NY 10011
 
-# *Personnel*
+# *Personnel*:
 
 Andrew Cryrille - Director
 
@@ -122,7 +122,7 @@ Elay Kadosh - Bass
 Zan Babar - Drums 
 
 
-# *Set List* 
+# *Set List*: 
 
 *Studio Recorded*
 

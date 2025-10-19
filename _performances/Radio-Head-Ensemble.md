@@ -109,7 +109,7 @@ College of Performing Arts at The New School,
 
 New York, NY 10011
 
-# *Personnel*
+# *Personnel*:
 
 Timothy Masso (me) - Baritone Saxophone
 

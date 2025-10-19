@@ -104,11 +104,11 @@ The New School University Center,
 
 New York, NY 10003
 
-# *Video*
+# *Video*:
 
-Alice in Wonderland (1915)
+[Alice in Wonderland (1915)](https://youtu.be/PD1Dbn5c2Sw?si=lisZPHcyNYtoWWfn)
 
-# *Repertoire*
+# *Repertoire*:
 
 Opening Credits, Before Wonderland - Matthew Kuperberg
 
@@ -136,7 +136,7 @@ The Court - Matthew Kuperberg
 
 Back to the Real World & End Credits  - Matthew Kuperberg
  
-# *Performing Personnel*
+# *Performing Personnel*:
 
 Ben Allison - Director, Bass 
 
@@ -152,7 +152,7 @@ Andrei Romanov - Piano
 
 Adam John Sherkin - Piano 
  
-# *Other Personnel* 
+# *Other Personnel*:
 
 Faculty - Alexis Cuadrado
 

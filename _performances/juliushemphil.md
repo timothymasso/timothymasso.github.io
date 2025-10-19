@@ -103,9 +103,9 @@ College of Performing Arts at The New School,
 
 New York, NY 10011
 
-# *Repertoire*
+# *Repertoire*:
 
-# *Personnel*
+# *Personnel*:
 
 Marty Ehrlich – Director
 

@@ -104,7 +104,7 @@ College of Performing Arts at The New School,
 
 New York, NY 10011
 
-# *Repertoire*
+# *Repertoire*:
 
 Peggy's Blue Skylight - Charles Mingus
 
@@ -112,7 +112,7 @@ Moanin' - Charles Mingus
 
 
 
-# *Personnel*
+# *Personnel*:
 
 Andy McKee – Director, Upright Bass
 

@@ -73,7 +73,7 @@ College of Performing Arts at The New School,
 
 New York, NY 10011
 
-# *Poster, Program and Stage Plot*
+# *Poster, Program and Stage Plot*:
 
 <div class="image-column">
   <img src="{{ site.url }}/assets/TimothyMassorecitalpostercopy.png" alt="Poster">
@@ -162,7 +162,7 @@ window.onscroll = function() {
 
 
 
-# *Personnel*
+# *Personnel*:
 
 Timothy Masso (me) - Alto Sax & Piano
 
@@ -176,7 +176,7 @@ Michael Gilbert - Bass
 
 Balam Sarellano - Drums
 
-# *Set List*
+# *Set List*:
 
 Free Improvised Piano and Drum Duo with Tim on Piano
 
@@ -191,7 +191,7 @@ All The Things You Are - Composed by Oscar Hammerstein II - Arrnaged by Timothy 
 Untitled Graphic Score - Drawn by Timothy Masso
 
 
-# Sheet Music
+# *Sheet Music*:
 
 ### Resolute - Composed By Timothy Masso
 

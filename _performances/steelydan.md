@@ -104,7 +104,7 @@ College of Performing Arts at The New School,
 
 New York, NY 10011
 
-# *Repertoire*
+# *Repertoire*:
 
 "FM" (from the album "FM (No Static at All)" - 1978):
 
@@ -120,7 +120,7 @@ New York, NY 10011
 
 "Josie" (from the album "Aja" - 1977):
 
-# *Personnel*
+# *Personnel*:
 
 Wayne Jones – Director, Piano
 

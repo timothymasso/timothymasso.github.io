@@ -108,7 +108,7 @@ The New School University Center,
 
 New York, NY 10003
 
-# *Program:*
+# *Program*:
 
 "The Kennedy Dream in Eight Movements" composed and arranged by Oliver Nelson
 
@@ -116,7 +116,7 @@ New York, NY 10003
 
 "Down by the Riverside" Arranged by Oliver Nelson
 
-# *Personnel*
+# *Personnel*:
 
 VIOLIN 1 VIOLIN 2 VIOLA CELLO DOUBLE BASS
 
