@@ -41,7 +41,7 @@ body {
 }
 
 a {
-    color:rgb(255, 255, 255); /* This changes the link color */
+  color: #5bff32;
 }
 
 </style>

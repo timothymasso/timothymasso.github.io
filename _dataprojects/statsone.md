@@ -46,8 +46,7 @@ body::before {
 }
 
 a {
-  color: #fff;
-  text-decoration: underline;
+  color: #5bff32;
 }
 
 /* Strong, crisp shadow outline 

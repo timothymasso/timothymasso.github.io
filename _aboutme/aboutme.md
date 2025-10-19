@@ -4,9 +4,6 @@ title: About Me
 permalink: /_aboutme/aboutme/
 ---
 
-<link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon">
-<link rel="icon" href="/assets/favicon.ico" type="image/x-icon">
-
 ## Early Years 
 I grew up in Cleveland surrounded by music. My father plays guitar and is a sound engineer, so every car ride was filled with tunes that sparked my love for music from an early age. I began on clarinet in fifth grade, then moved to alto saxophone, but after a summer camp where I played baritone for the first time, I fell in love with the horn and its sound. I knew I wanted to dedicate myself to jazz music. 
 
@@ -78,7 +75,6 @@ body {
 
 a {
   color: #5bff32;
-  text-decoration: underline;
 }
 
 </style>
