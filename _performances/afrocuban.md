@@ -10,38 +10,10 @@ permalink: /_performances/afrocuban/
 <style>
 
 body {
-  color: white;
-  font-family: monospace;
-  font-size: 16px;
-  line-height: 1.4;
-  margin: 0;
-  min-height: 100%;
-  overflow-wrap: break-word;
-  text-shadow: 
-    0 0 0 black,
-    1px 0 0 black,
-    -1px 0 0 black,
-    0 1px 0 black,
-    0 -1px 0 black,
-    1px 1px 0 black,
-    -1px -1px 0 black,
-    1px -1px 0 black,
-    -1px 1px 0 black,
-    2px 0 0 black,
-    -2px 0 0 black,
-    0 2px 0 black,
-    0 -2px 0 black;
-}
-
-body {
   background-image: url('/assets/5thfloor.webp');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
-}
-
-a {
-  color: #5bff32;
 }
 
 </style>

@@ -40,9 +40,6 @@ body {
   background-attachment: fixed;
 }
 
-a {
-  color: #5bff32;
-}
 
 </style>
 

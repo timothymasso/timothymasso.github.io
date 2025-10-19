@@ -40,10 +40,6 @@ body {
     background-attachment: fixed; 
 }
 
-a {
-    color:rgb(255, 255, 255); /* This changes the link color */
-    
-}
 
 /* body, a {
   text-shadow: 
@@ -62,9 +58,6 @@ a {
     allowfullscreen>
 </iframe>
 
-
-
-# My BFA senior recital
 
 # *Date*: 
 

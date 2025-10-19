@@ -73,10 +73,6 @@ body {
 }
 
 
-a {
-  color: #5bff32;
-}
-
 </style>
 
 

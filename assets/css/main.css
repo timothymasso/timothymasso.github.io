@@ -3,14 +3,36 @@ html {
   scroll-behavior: smooth;
 }
 body {
-  color: black;
+  color: white;
   font-family: monospace;
   font-size: 16px;
   line-height: 1.4;
   margin: 0;
   min-height: 100%;
   overflow-wrap: break-word;
+  text-shadow: 
+    0 0 0 black,
+    1px 0 0 black,
+    -1px 0 0 black,
+    0 1px 0 black,
+    0 -1px 0 black,
+    1px 1px 0 black,
+    -1px -1px 0 black,
+    1px -1px 0 black,
+    -1px 1px 0 black,
+    2px 0 0 black,
+    -2px 0 0 black,
+    0 2px 0 black,
+    0 -2px 0 black;
 }
+
+body {
+  background-image: url('/assets/5thfloor.webp');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
 .post-meta {
   text-align: right;
 }
@@ -80,4 +102,13 @@ img {
   :root {
     color-scheme: light;
   }
+}
+
+a {
+  color: #5bff32;
+}
+
+a:hover {
+  color: #e4f5e4; /* lighter green on hover */
+  text-decoration-thickness: 2px; /* slightly bolder underline on hover */
 }
