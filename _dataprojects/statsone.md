@@ -45,10 +45,6 @@ body::before {
   z-index: -1;
 }
 
-a {
-  color: #5bff32;
-}
-
 /* Strong, crisp shadow outline 
 body, a {
   text-shadow: 
