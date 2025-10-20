@@ -34,7 +34,7 @@ body {
 }
 
 body {
-    background-image: url('/assets/5thfloor.webp'); 
+    background-image: url('/assets/kdream.png'); 
     background-size: cover; 
     background-position: center; 
     background-attachment: fixed; 
@@ -118,7 +118,7 @@ New York, NY 10003
 
 # *Personnel*:
 
-VIOLIN 1 VIOLIN 2 VIOLA CELLO DOUBLE BASS
+group is led by conductor, trombonist, and bandleader Ed Neumeister and the Vanguard Jazz Orchestra's lead trumpeter Nick Marchione.
 
 Nian Men - Violin 1
 

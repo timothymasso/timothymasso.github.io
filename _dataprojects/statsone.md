@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes From Stats 1
+title: Notes From Stats 1 (under construction)
 category: "Tri-C Post Degree Cert Classes"
 year: 2025
 date: 2025-08-10

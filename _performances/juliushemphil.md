@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Julius Hemphil Ensemble
+title: Julius Hemphil Ensemble (under construction)
 category: "New School"
 year: 2022
 date: 2022-12-06
