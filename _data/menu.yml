@@ -5,17 +5,15 @@ entries:
   - title: Info
     entries:
       - title: Sonic Architect
-      - title: About me
+      - title: About me (under construction)
         url: /_aboutme/aboutme/
       - title: timothy.masso@gmail.com
-      - title: Linkedin
-        url: https://www.linkedin.com/in/timothymasso/
       - title: GitHub
         url: https://github.com/timothymasso
       - title: Instagram
         url: https://www.instagram.com/timmasso_/
         #url: https://github.com/riggraz/no-style-please
-      - title: this is a site of everything me
+      - title: this is a site of everything me, as of 10/19/2025, I'm still updating it
 
 
 
