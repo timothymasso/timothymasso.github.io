@@ -34,7 +34,7 @@ body {
 }
 
 body {
-  background-image: url('/assets/tish.jpg');
+  background-image: url('/assets/olddoe.png');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
