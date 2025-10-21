@@ -124,7 +124,7 @@ body {
   margin: 0;
   min-height: 100%;
   overflow-wrap: break-word;
-  background-image: url('/assets/darkbgcolor.jpg'); 
+  background-image: url('/assets/backgroundme.jpg'); 
   background-size: cover; 
   background-position: center; 
   background-attachment: fixed;
