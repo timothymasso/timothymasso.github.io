@@ -34,7 +34,7 @@ body {
 }
 
 body {
-    background-image: url('/assets/kdream.png'); 
+    background-image: url('/assets/kdream.jpg'); 
     background-size: cover; 
     background-position: center; 
     background-attachment: fixed; 
@@ -179,5 +179,6 @@ Evan Eskenzai - Drum Set
 Trevor Jennings - Vibraphone
 
 Milo Harper - Harp
+
 
 Blanca Saxel - Piano
