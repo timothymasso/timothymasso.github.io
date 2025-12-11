@@ -2,15 +2,15 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: Info
+  - title: info
     entries:
-      - title: Sonic Architect
-      - title: About me (under construction)
+      - title: sonic architect and computer guy
+      - title: about me (under construction)
         url: /_aboutme/aboutme/
       - title: timothy.masso@gmail.com
-      - title: GitHub
+      - title: gitHub
         url: https://github.com/timothymasso
-      - title: Instagram
+      - title: instagram
         url: https://www.instagram.com/timmasso_/
         #url: https://github.com/riggraz/no-style-please
       - title: this is a site of everything me, as of 10/21/2025
@@ -27,5 +27,6 @@ entries:
 
 
       
+
 
 
