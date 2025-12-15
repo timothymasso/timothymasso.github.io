@@ -106,81 +106,15 @@ New York, NY 10011
 
 # *Repertoire and notes*:
 
-Pithecanthropus - Charles Mingus
-
-• no intro.
-
-• play the ink.
-
-• solo: one time through the entire form. 6/4 section is open. soloist cues turn around to top
-
-• horns play letter B or letter C as background
-
-• head out. ending - 4th x at letter B.
-
-
-Boogie Stop Shuffle - Charles Mingus
-
-• play the ink. groove change at letter B.
-
-• 1st solo on J.B. groove. horns use intro figure as bg.
-
-• possible - letter B 1x as interlude into 2nd solo in ‘4’ (double-time)
-
-• after solos, D.C. - letter A 1x, letter B 2x.
-
-
-Goodbye Pork Pie Hat - Charles Mingus 
-
-• solos: Aaron, Reid
-
-• play the ink.
-
-• solos on letter B
-
-• D.S. 1x to fine (first measure of letter B)
-
-
-Peggy’s Blue Skylight - Charles Mingus
-
-• 1st A rubato, Tim sets tempo going into A2
-
-• solos on entire form - AAB
-
-• head out - rubato at letter B for 8 bars, then tempo to coda
-
-• coda open for drum solo
-
-
-Duke Ellington’s Sound of Love - Charles Mingus
-
-• solos: Sam, Aaron
-
-• alto melody
-
-• solos - 1 chorus Sam, 1/2 chorus Aaron
-
-• melody at letter B to end
-
-
-Moanin' - Charles Mingus
-
-• solos: Tim
-
-• 1st x bari alone
-
-• add drums/guitar, etc.
-
-• solos form - AABA
-
-• fine - end of letter B
-
-
-Wednesday Night Prayer Meeting - Charles Mingus (if needed)
-
-• 1 chorus bass out front. then play the ink.
-
-• watch ending - conducted descending line to IV chord. then I chord.
+| Song | Notes |
+|------|-------|
+| **Pithecanthropus** - Charles Mingus | • no intro<br>• play the ink<br>• solo: one time through the entire form. 6/4 section is open. soloist cues turn around to top<br>• horns play letter B or letter C as background<br>• head out. ending - 4th x at letter B |
+| **Boogie Stop Shuffle** - Charles Mingus | • play the ink. groove change at letter B<br>• 1st solo on J.B. groove. horns use intro figure as bg<br>• possible - letter B 1x as interlude into 2nd solo in '4' (double-time)<br>• after solos, D.C. - letter A 1x, letter B 2x |
+| **Goodbye Pork Pie Hat** - Charles Mingus | • solos: Aaron, Reid<br>• play the ink<br>• solos on letter B<br>• D.S. 1x to fine (first measure of letter B) |
+| **Peggy's Blue Skylight** - Charles Mingus | • 1st A rubato, Tim sets tempo going into A2<br>• solos on entire form - AAB<br>• head out - rubato at letter B for 8 bars, then tempo to coda<br>• coda open for drum solo |
+| **Duke Ellington's Sound of Love** - Charles Mingus | • solos: Sam, Aaron<br>• alto melody<br>• solos - 1 chorus Sam, 1/2 chorus Aaron<br>• melody at letter B to end |
+| **Moanin'** - Charles Mingus | • solos: Tim<br>• 1st x bari alone<br>• add drums/guitar, etc.<br>• solos form - AABA<br>• fine - end of letter B |
+| **Wednesday Night Prayer Meeting** - Charles Mingus (if needed) | • 1 chorus bass out front. then play the ink<br>• watch ending - conducted descending line to IV chord. then I chord |
 
 
 
