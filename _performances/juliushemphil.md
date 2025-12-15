@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Julius Hemphil Ensemble (under construction)
+title: Julius Hemphil Ensemble
 category: "New School"
 year: 2022
 date: 2022-12-06
@@ -104,6 +104,28 @@ College of Performing Arts at The New School,
 New York, NY 10011
 
 # *Repertoire*:
+Dirty Row - Julius Hemphill
+
+Floopy/Blued up - Julius Hemphill
+
+Pigskin - Julius Hemphill
+
+Sixty Sixty - Julius Hemphill
+
+New Prayers - Julius Hemphill
+
+Holy Rockers - Julius Hemphill
+
+Dung - Julius Hemphill
+
+For Billie - Julius Hemphill
+
+Mirrors - Julius Hemphill
+
+At Dr. Kings Table - Julius Hemphill
+
+Dogon A.D - Julius Hemphill
+
 
 # *Personnel*:
 
