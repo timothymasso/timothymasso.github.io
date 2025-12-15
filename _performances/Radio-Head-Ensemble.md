@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Radiohead Ensemble (under construction)
+title: Radiohead Ensemble
 category: "New School"
 year: 2024
 date: 2024-02-15
