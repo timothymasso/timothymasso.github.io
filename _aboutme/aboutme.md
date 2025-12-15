@@ -57,7 +57,7 @@ While going to college, I put my other passion for live sound and music producti
 
 
 ## Post Bachelors (2024-) 
-Since graduating from The New School in 2024, I found a new passion in data analysis, math and tech. To start my new exploration to get a good feel for real world application of what i wanted to do, I earned microcredentials in Excel, Minitab, Power BI, and general data analytics. I liked doing all of that so much that I'm Currently pursuing the Post-Degree Professional Certificate in Data Analytics at Cuyahoga Community College (TRI-C), with a goal of beginning a Master’s degree in Applied Mathematics and Statistics in Fall 2026. As of Oct 2025 I'm still getting everything ready for my application. In the meantime I work as a LAN (Local Area Network) and Desktop Support Technician for an IT company that oversees more than 250 devices and accounts.
+Since graduating from The New School in 2024, I found a new passion in data analysis, math and tech. To start my new exploration to get a good feel for real world application of what I wanted to do, I earned microcredentials in Excel, Minitab, Power BI, and general data analytics. I liked doing all of that so much that I'm Currently pursuing the Post-Degree Professional Certificate in Data Analytics at Cuyahoga Community College (TRI-C), with a goal of beginning a Master’s degree in Applied Mathematics and Statistics in Fall 2026. As of Oct 2025 I'm still getting everything ready for my application. This all might be tentative as I plan to move back to nyc in summer 2026. In the meantime I work as a LAN (Local Area Network) and Desktop Support Technician for an IT company that oversees more than 250 devices and accounts.
 
 
 
