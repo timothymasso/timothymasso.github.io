@@ -4,7 +4,7 @@ title: IT1050 Programming Logic
 category: "Tri-C Post Degree Cert Classes"
 year: 2025
 date: 2025-10-28
-permalink: /_dataprojects/calcproject/
+permalink: /_dataprojects/proglogic/
 ---
 
 # Learning Log — IT1050 Programming Logic: Lab-by-Lab Reflections
