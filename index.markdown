@@ -42,7 +42,7 @@ layout: home
   {% endunless %}
 {% endfor %}
 
-<h2>Data Projects</h2>
+<h2>Random Projects</h2>
 <ul>
 {% for category in reordered_dataproject_categories %}
 <li class="category">
