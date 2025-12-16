@@ -21,7 +21,7 @@ High school was a wonderful time full of music and growth. I played in concert b
 
 - Mario Clopton
 
-(Former Director of Chior for the Shaker Heights School District and the director of the High School Show Chior)  
+(Former Director of Choir for the Shaker Heights School District and the director of the High School Show Chior)  
 
 - Ken LeeGrand 
 
