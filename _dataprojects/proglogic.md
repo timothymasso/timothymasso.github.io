@@ -3,14 +3,13 @@ layout: post
 title: IT1050 Programming Logic
 category: "Tri-C Post Degree Cert Classes"
 year: 2025
-date: 2025-12-15
+date: 2025-10-28
 permalink: /_dataprojects/calcproject/
 ---
 
 # Learning Log — IT1050 Programming Logic: Lab-by-Lab Reflections
 
 *Repository: [timothymasso/IT1050-Programming-Logic](https://github.com/timothymasso/IT1050-Programming-Logic) · CRN 81766*  
-*Date: 2025-12-16*
 
 Over the semester I completed a sequence of focused C# labs that built up programming fundamentals step-by-step. Below is a concise blog-style walkthrough of each lab, the core concepts I learned, and why they matter. This progression is practical: begin with I/O and data, add control flow and math, then model real-world entities with objects and collections.
 
