@@ -65,6 +65,32 @@ layout: home
 {% endfor %}
 </ul>
 
+
+<h2>Compositions</h2>
+<ul>
+  {% assign grouped_types = site.compositions | group_by: "type" %}
+  {% for type in grouped_types %}
+  <li class="category">
+    {{ type.name }}
+    <ul>
+      {% assign grouped_years = type.items | group_by: "year" | sort: "name" | reverse %}
+      {% for year in grouped_years %}
+      <li class="year">
+        {{ year.name }}
+        <ul>
+          {% assign sorted_compositions = year.items | sort: "date" | reverse %}
+          {% for composition in sorted_compositions %}
+          <li><a href="{{ composition.url }}">{{ composition.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </li>
+      {% endfor %}
+    </ul>
+  </li>
+  {% endfor %}
+</ul>
+
+
 <!-- <h2>Typewriter Projects</h2>
 <ul>
   {% assign grouped_types = site.typewriters | group_by: "type" %}
