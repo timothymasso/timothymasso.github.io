@@ -81,6 +81,23 @@ New York, NY 10011
 
 # *Repertoire*:
 
+Frenzy - Mario Bauza/ Rene Hernandez. Arr. Joe Fielder
+
+Spooky as performed by Janis Siegel with Bobby Sanabria & the Multiverse Big Band - Buddy Buie, James Cobb Jr., Harry Middlebrooks Jr. and Mike Shapiro. Arr. Jeremy Fletcher & Christian McBride
+
+Do It Again - Donald Fagen and Walter Becker
+
+Mi Congo - Eddie Palmieri. Arr. Takao Heisho 
+
+Partido Alto (in Dm) - J. Bertrami, A. Malheiros, F. Purim. Arr. Takao Heisho
+
+To Be With You as performed by Janis Siegel with Bobby Sanabria & the Multiverse Big Band - Nick Jiménez Willie Torre
+
+Havana As featured on the John Fedchock New York Big Band recording, "Like It Is" - John Fedchock
+
+Sometimes Bread (Big Band Only) from Mongo's Way (1971) by Mongo Santamaria - Sonny Henry
+
+
 # *Personnel*:
 
 Bobby Sanabria – Director
