@@ -120,7 +120,7 @@ LaTeX is a special way to write papers, especially those with math, formulas, an
 
 Before you start reading, This note compilation is the first of many I hope to write. It is part summary, part practice, and part record of my journey from music to math.
 
-
+### Life got busy so this is essentially on hold for the time being
 ### Full PDF (still in progress)
 
 <iframe src="{{ site.url }}/assets/test.pdf" width="100%" height="850px"></iframe>
