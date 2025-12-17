@@ -42,6 +42,7 @@ layout: home
   {% endunless %}
 {% endfor %}
 
+
 <h2>Random Projects</h2>
 <ul>
 {% for category in reordered_dataproject_categories %}
@@ -68,26 +69,26 @@ layout: home
 
 <h2>Compositions</h2>
 <ul>
-  {% assign grouped_types = site.compositions | group_by: "type" %}
-  {% for type in grouped_types %}
-  <li class="category">
-    {{ type.name }}
-    <ul>
-      {% assign grouped_years = type.items | group_by: "year" | sort: "name" | reverse %}
-      {% for year in grouped_years %}
-      <li class="year">
-        {{ year.name }}
-        <ul>
-          {% assign sorted_compositions = year.items | sort: "date" | reverse %}
-          {% for composition in sorted_compositions %}
-          <li><a href="{{ composition.url }}">{{ composition.title }}</a></li>
-          {% endfor %}
-        </ul>
-      </li>
-      {% endfor %}
-    </ul>
-  </li>
-  {% endfor %}
+{% assign compositions = site.compositions | group_by: "category" %}
+{% for category in compositions %}
+<li class="category">
+  {{ category.name }}
+  <ul>
+    {% assign grouped_years = category.items | group_by: "year" | sort: "name" | reverse %}
+    {% for year in grouped_years %}
+    <li class="year">
+      {{ year.name }}
+      <ul>
+        {% assign sorted_compositions = year.items | sort: "date" | reverse %}
+        {% for composition in sorted_compositions %}
+        <li><a href="{{ composition.url }}">{{ composition.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </li>
+    {% endfor %}
+  </ul>
+</li>
+{% endfor %}
 </ul>
 
 

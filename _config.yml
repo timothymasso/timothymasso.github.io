@@ -54,6 +54,10 @@ collections:
     output: true
     permalink: /_typewriters/:path/
 
+  compositions:
+    output: true
+    permalink: /_compositions/:path/
+
 
 favicon: "./assets/favicon.png"
 
