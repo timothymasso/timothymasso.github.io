@@ -67,7 +67,7 @@ layout: home
 </ul>
 
 
-<h2>Compositions</h2>
+<!-- <h2>Compositions</h2>
 <ul>
 {% assign compositions = site.compositions | group_by: "category" %}
 {% for category in compositions %}
@@ -89,7 +89,7 @@ layout: home
   </ul>
 </li>
 {% endfor %}
-</ul>
+</ul> -->
 
 
 <!-- <h2>Typewriter Projects</h2>

@@ -4,8 +4,9 @@ title: Milestones Arrangment
 category: "New School"
 year: 2022
 date: 2022-07-21
-permalink: /_compositions/test/
+permalink: /_compositions/miles/
 ---
+
 <iframe src="/assets/compositions/test.pdf" width="100%" height="800px"></iframe>
 
 
